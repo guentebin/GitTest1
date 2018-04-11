@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Write("Change");
-            //Make change from server
+            //Make another change from server
         }
     }
 }
